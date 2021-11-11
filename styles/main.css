@@ -1,0 +1,23 @@
+@import url(quotes.css);
+@import url(fish.css);
+@import url(locations.css);
+
+.mainHeader {
+  text-align: left;
+  font-size: 40px;
+  font-family: fantasy;
+}
+
+h2 {
+  font-style: normal;
+}
+
+.container {
+  background-color: rgb(145, 192, 207);
+  border: 2cm;
+  border-color: black;
+}
+
+.tips {
+  text-align: left;
+}

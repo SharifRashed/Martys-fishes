@@ -1,0 +1,14 @@
+.fish {
+  border: 5px outset blue;
+  background-color: lightblue;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
